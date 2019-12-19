@@ -1,0 +1,54 @@
+Mousse au chocolat
+==================
+
+Elaborer la mousse 15 heures avant de servir. Il est possible de la
+congeler, il faut alors la sortir 4 heures avant du congélateur et la
+mettre au frigo. 
+
+Ingrédients
+-----------
+
+.. image:: figures/Ingredients.jpg
+    :scale: 30 %
+    :align: center
+
+Pour 8 personnes :
+
+- 3 plaques de chocolat Cailler 64% crémant intense
+- 6 oeufs frais
+- 2 crèmes entières (2 x 250ml)
+- 1/3 espresso
+
+Préparation
+-----------
+
+1. faire cuire un fond d'eau chaude dans une casserole assez grande
+   pour que le plaque passe dans le fond 
+2. séparer les jaunes d'oeufs
+3. déballer les plaques de chocolat
+
+Elaboration
+-----------
+
+1. une fois l'eau qui bout, mettre la casserole sur une plaque froide
+   et laisser un peu refroidir (1 min)
+2. mettre les plaques de chocolat dans l'eau   
+3. attendre qu'elles s'attendrissent, piquer avec un couteau pour 
+   vérifier qu'elles sont bien molles
+4. enlever l'eau, mais laisser un petit fond
+5. mélanger avec une spatule, si ça colle trop rajouter de l'eau pour
+   que le mélange soit bien lisse
+   
+   .. image:: figures/ConsistenceChoco.jpg
+    :scale: 30 %
+    :align: center
+	    
+6. laisser refroidir
+7. pendant le refroidissement monter la crème entière en chantilly
+   mais pas tout à fait
+8. une fois le chocolat refroidit, mettre les jaunes d'oeufs, le café,
+   et ...!
+9. bien mélanger
+10. verser le chocolat dans la crème chantilly
+11. mélanger délicatement, il ne faut pas qu'il y ait de trace de
+    chantilly. 

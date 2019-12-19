@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Recettes'
-copyright = '2019, windwaver'
-author = 'windwaver'
+project = 'Mes Recettes'
+copyright = '2019, Windwaver'
+author = 'WW'
 
 # The full version, including alpha/beta/rc tags
 release = '1'
@@ -54,4 +54,8 @@ html_theme = 'sphinx_rtd_theme'
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
-master_doc = 'index'
+
+locale_dirs = ['locale/']   # path is example but recommended.
+gettext_compact = False     # optional.
+
+
